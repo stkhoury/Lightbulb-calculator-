@@ -30,4 +30,4 @@ def lightbulb_calculator():
 
     print ("Thank you so much for running this program. I hope you enjoy it")
     
-(lightbulb_calculator())
+lightbulb_calculator()
